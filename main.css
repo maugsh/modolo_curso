@@ -1,0 +1,16 @@
+.container {
+    margin-left: 40%;
+    margin-top: 20%;
+}
+
+li:hover{
+    cursor: pointer; 
+}
+
+.risco {
+    text-decoration: line-through;
+}
+
+ul {
+    list-style: none
+}
